@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cloversinn/static/css/main.b93e8ec7.css",
-    "main.js": "/cloversinn/static/js/main.c67213aa.js",
+    "main.js": "/cloversinn/static/js/main.e4143bbd.js",
     "static/media/clouds2.jpg": "/cloversinn/static/media/clouds2.a35c9be4b564544c3b21.jpg",
     "static/media/a4.jpg": "/cloversinn/static/media/a4.64186b280980c1d8c9ef.jpg",
     "static/media/a1.jpg": "/cloversinn/static/media/a1.66753adcd60acbfcf7e0.jpg",
@@ -37,10 +37,10 @@
     "static/media/clouds.jpg": "/cloversinn/static/media/clouds.267e6a7a2648ad5f3761.jpg",
     "index.html": "/cloversinn/index.html",
     "main.b93e8ec7.css.map": "/cloversinn/static/css/main.b93e8ec7.css.map",
-    "main.c67213aa.js.map": "/cloversinn/static/js/main.c67213aa.js.map"
+    "main.e4143bbd.js.map": "/cloversinn/static/js/main.e4143bbd.js.map"
   },
   "entrypoints": [
     "static/css/main.b93e8ec7.css",
-    "static/js/main.c67213aa.js"
+    "static/js/main.e4143bbd.js"
   ]
 }
