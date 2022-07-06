@@ -5,13 +5,13 @@ import { Home } from "./components/home/Home";
 import { Booking } from "./components/booking/Booking";
 import { Hotel } from './components/hotel/Hotel';
 import { Rooms } from './components/rooms/Rooms';
-import { BrowserRouter, Routes, Route} from "react-router-dom";
+import { HashRouter, Routes, Route} from "react-router-dom";
 import { SightSeeing } from "./components/sightSeeing/SightSeeing.jsx";
 import { Gallery } from "./components/gallery/Gallery";
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Routes>
         <Route path="/cloversinn" element={<Home><NavBar /></Home>}></Route>
         <Route path="/booking" element={<Booking></Booking>}></Route>
@@ -21,7 +21,7 @@ function App() {
         <Route path="/gallery" element={<Gallery></Gallery>}></Route>
 
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
