@@ -1,7 +1,7 @@
 {
   "name": "cloversinn",
   "version": "0.1.0",
-  "homepage": "https://mohan-offsure.github.io/",
+  "homepage": "https://mohan-offsure.github.io/cloversinn",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.9.0",
