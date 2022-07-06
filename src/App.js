@@ -11,7 +11,7 @@ import { Gallery } from "./components/gallery/Gallery";
 
 function App() {
   return (
-    <BrowserRouter basename = "/cloversinn">
+    <BrowserRouter>
       <Routes>
         <Route path="/cloversinn" element={<Home><NavBar /></Home>}></Route>
         <Route path="/booking" element={<Booking></Booking>}></Route>
